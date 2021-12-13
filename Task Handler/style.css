@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-color: whitesmoke;
+    display: block;
+    padding: auto;
+    margin: auto;
+}
+#icon{
+  color: white;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+#head {
+    padding: 20px;
+    font-weight: 700;
+    color: rgb(66, 66, 66);
+    text-shadow: black 1.5px 0.5px;
+}
+#des {
+    width: 100%;
+    border: gainsboro solid 0.5px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.clr:hover{
+  background-color: red;
+}
+.ad:hover{
+  background-color: green;
+}
+
